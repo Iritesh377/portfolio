@@ -1,0 +1,15 @@
+------------------------------------------
+ CREDITS
+------------------------------------------
+
+    - Bootstrap 4   -   https://getbootstrap.com
+
+    - Font Awesome  -   https://fontawesome.com/start
+
+
+
+------------------------------------------
+ Images
+------------------------------------------
+
+    - Pexels.com   -   https://www.pexels.com/photo/man-in-white-dress-shirt-926390/
